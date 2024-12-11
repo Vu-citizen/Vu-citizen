@@ -1,5 +1,4 @@
-<h1>Hi, I'm Long! <br/><a href="https://github.com/Vu-citizen">Imformation Technology</a>, <a href="https://github.com/Vu-citizen">Cybersecurity Professional</a>, <a href="https://github.com/Vu-citizen">YouTuber</a></h1>
-
+<h1>Hi, I'm Long! <br/><a href="https://github.com/Vu-citizen">Imformation Technology</a>
 <h2>👨‍💻 Imformation Technology Project:</h2>
 
 - <b> (home lab) seeting up basic Active Directory using Vmware</b>
