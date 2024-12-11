@@ -5,7 +5,7 @@
 - <b> (home lab) seeting up basic Active Directory using Vmware</b>
   - [Active Directory](https://github.com/Vu-citizen/Active-Directory-homelab)
 - <b>helpdesk ticketing system setup with osTICKET and open source ticketing setup with window server 2022)</b>
-  - [Home Lab ticketing system](https://github.com/Vu-citizen/Home-lab-OSticket-setup) <b><i>(Potentially NSFW)</b></i>
+  - [Home Lab ticketing system](https://github.com/Vu-citizen/Home-lab-OSticket-setup) </b></i>
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
