@@ -8,9 +8,7 @@
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/Vu-citizen)
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://github.com/Vu-citizen)
 
 <h2> 🤳 Connect with me:</h2>
 
