@@ -8,7 +8,7 @@
   - Created and managed user accounts, organizational units (OUs), and computer accounts within the domain.
   - Connected a Windows 10 client machine to the domain and verified login functionality and internet access.
   - Demonstrated expertise in static IP configuration, role-based installations, and server management.
-- <b>[Technical Support Ticketing System (osTicket) Deployment with window server 2022](https://github.com/Vu-citizen/Home-lab-OSticket-setup)</b>
+- <b>[Technical Support Ticketing System (osTicket) Deployment with Windows Server 2022](https://github.com/Vu-citizen/Home-lab-OSticket-setup)</b>
   - Configured and deployed osTicket on a Windows Server 2022 environment from the ground up.
   - Installed and set up key components, including IIS, PHP, Databse, and required dependencies.
   - Designed and secured a database schema, created restricted database user accounts, and configured osTicket to interface with MariaDB.
