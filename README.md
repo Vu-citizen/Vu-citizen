@@ -1,4 +1,4 @@
-<h1>Hi, I'm Long Vu! <br/><a href="https://github.com/Vu-citizen">Inspired I.T technologist</a>
+<h1>Hi, I'm Long Vu! <br/><a href="https://github.com/Vu-citizen"> An Inspired I.T Specialist</a>
 <h2>👨‍💻 Imformation Technology Project:</h2>
 
 - <b> [Active Directory Home Lab Project](https://github.com/Vu-citizen/Active-Directory-homelab).</b></i>
