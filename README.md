@@ -15,7 +15,7 @@
   - Developed an intuitive user portal and admin panel for managing ticketing workflows.
   - Verified full functionality by simulating end-user and admin interactions within the system.
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/Vu-citizen)
+  - [Active Directory Bulk User Creation](https://github.com/Vu-citizen/Powershell-AD)
 
 
 
