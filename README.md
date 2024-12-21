@@ -16,4 +16,4 @@
 [<img align="left" alt="LongVu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://github.com/Vu-citizen
-[linkedin]: https://github.com/Vu-citizen
+[linkedin]: https://github.com/Vu-citizen](https://www.linkedin.com/in/long-vu-256355342/
