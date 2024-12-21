@@ -1,7 +1,7 @@
 <h1>Hi, I'm Long Vu! <br/><a href="https://github.com/Vu-citizen">Imformation Technology</a>
 <h2>👨‍💻 Imformation Technology Project:</h2>
 
-- <b> [home lab] seeting up basic Active Directory using Vmware(https://github.com/Vu-citizen/Active-Directory-homelab).</b>
+- <b> [home lab] seeting up basic Active Directory using Vmware(https://github.com/Vu-citizen/Active-Directory-homelab).</b></i>
   - Designed and deployed a basic Active Directory infrastructure using VMware Workstation and Windows Server 2022.
   - Configured virtual machines with dual network adapters for internal and external connectivity.
   - Installed and configured Active Directory Domain Services (AD DS), DHCP, and Remote Access Services (RAS) with NAT routing.
