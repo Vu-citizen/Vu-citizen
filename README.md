@@ -19,10 +19,3 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="LongVu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LongVu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://github.com/Vu-citizen
-[linkedin]: https://www.linkedin.com/in/long-vu-256355342
